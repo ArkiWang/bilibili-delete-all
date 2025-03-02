@@ -1,0 +1,7 @@
+.tar
+.gz
+.zip
+.tar.gz
+.idea/
+.DS_Store
+.vs_code/
