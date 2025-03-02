@@ -1,0 +1,23 @@
+{
+  "name": "bilibili-delete-all",
+  "version": "1.0.0",
+  "description": "## 简介 删除B站所有动态",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArkiWang/bilibili-delete-all.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArkiWang/bilibili-delete-all/issues"
+  },
+  "homepage": "https://github.com/ArkiWang/bilibili-delete-all#readme",
+  "dependencies": {
+    "axios": "^1.8.1"
+  }
+}
